@@ -10,7 +10,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         for(int i = 1; i <= n; i++)
         {
